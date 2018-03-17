@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello: This is Weng Dalyop</h1>
+<p>I'm hosted with GitHub Pages and will be working on some new projects</p>
+</body>
+</html>
